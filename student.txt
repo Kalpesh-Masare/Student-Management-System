@@ -1,0 +1,9 @@
+Student Management System
+
+Student ID: 101
+Name: Kalpesh m 
+Course: Computer Engineering
+
+Student ID: 102
+Name: janvee b 
+Course: MBBS 
